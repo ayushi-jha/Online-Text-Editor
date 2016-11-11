@@ -19,9 +19,13 @@ The default is the white theme : white text on black background.
 If you prefer the dark side, type black on the first input box and white and on the second input box and hit "Get New Theme" button. 
 
 
+## Code
+
+There is just one file `index.html` that consists of all javascript (in `<script>` tags), CSS (in `style` tags) and basic HTML. No framework is used, the code is kept light and simple. 
+
 ## Future Work
 
-* Adding more tools for editors, such as bold, italics etc. while still being distraction free
-* Option to select from pre-made themes
-* Save features to download the text written as pdf, word, txt etc. formats.
-
+- [ ] Adding more tools for editors, such as bold, italics etc. while still being distraction free
+- [ ] Option to select from pre-made themes
+- [ ] Save features to download the text written as pdf, word, txt etc. formats.
+- [ ] A blog post for using this project as a javascript tutorial for beginners.
