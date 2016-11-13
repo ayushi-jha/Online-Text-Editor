@@ -39,4 +39,3 @@ There is just one file `index.html` that consists of all javascript (in `<script
 - [ ] Option to select from pre-made themes
 - [ ] Save features to download the text written as pdf, word, txt etc. formats.
 - [ ] A blog post for using this project as a javascript tutorial for beginners.
-<
